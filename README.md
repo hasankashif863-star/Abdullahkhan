@@ -1,0 +1,20 @@
+!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Free Fire Booyah Battle & Moderator Suite</title>
+    <meta name="description" content="Full Free Fire experience with playable Battle Royale arena, character & skill combinations, Vault wardrobe, Luck Royale spins, 1-Year daily rewards calendar with October 18 Mega Jackpot, and exclusive Moderator admin tools to grant diamonds and badges." />
+    <meta property="og:title" content="Free Fire Booyah Battle & Moderator Suite" />
+    <meta property="og:description" content="Full Free Fire experience with playable Battle Royale arena, character & skill combinations, Vault wardrobe, Luck Royale spins, 1-Year daily rewards calendar with October 18 Mega Jackpot, and exclusive Moderator admin tools to grant diamonds and badges." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,400;0,600;0,700;1,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Teko:wght@500;600;700&display=swap" rel="stylesheet">
+  </head>
+  <body class="bg-[#0b0e14] text-white select-none overflow-x-hidden">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
