@@ -1,0 +1,8 @@
+{
+  "name": "Free Fire Booyah Battle & Moderator Suite",
+  "description": "Full Free Fire experience with playable Battle Royale arena, character & skill combinations, Vault wardrobe, Luck Royale spins, 1-Year daily rewards calendar with October 18 Mega Jackpot, and exclusive Moderator admin tools to grant diamonds and badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
